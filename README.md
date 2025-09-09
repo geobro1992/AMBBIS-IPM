@@ -12,4 +12,5 @@ Population viability analyses (PVAs) represent a key component of many recovery 
 
 ### data
 **P4_climate_projections.csv** - climate data for Pond 4 referenced in the mansucript\
-**P5_climate_projections.csv** - climate data for Pond 5 referenced in the mansucript
+**P5_climate_projections.csv** - climate data for Pond 5 referenced in the mansucript\
+These data files include values used to identify hydrology (breeding potential) as: 0) unsuitable, 1) suitable with small metamorphs, or 3) suitable with large metamorphs. There are also values determining whether or not there were potential negative interactions between hydrology and phenology in a given breeding season (1 = yes, 0 = no). Values are shown separately for the two study sites.

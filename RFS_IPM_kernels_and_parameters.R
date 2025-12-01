@@ -1,7 +1,7 @@
 ##################################################################################################################
 # Modeling Reticulated Flatwoods Salamander populations: Assessing effects of future climate change scenarios
 # on long-term population viability. This script has just the final kernels and parameters that are needed
-# to run the model. See full code for calculations of certain values.
+# to run the model. See previous publication (Brooks et al. 2020) for calculations of certain values.
 ##################################################################################################################
 
 
@@ -499,4 +499,5 @@ FUN.fec.z <- function(z1, z, hydro, m.par){
   }
   
 }
+
 
